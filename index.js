@@ -18,3 +18,6 @@ function dec(x) {
   x--
   return x
 }
+function makeInt(x) {
+  return parseInt(x)
+}

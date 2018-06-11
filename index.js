@@ -19,5 +19,5 @@ function dec(x) {
   return x
 }
 function makeInt(x) {
-  return parseInt(x)
+  return parseInt(x, 10)
 }
